@@ -18,4 +18,4 @@ Body Mass Index calculator app is an app that will calculate their body mass ind
 
 ## Demo
 
-![BMI-Demo](Documentation/iOS-BMI.gif)]
+![BMI-Demo](Documentation/iOS-BMI.gif)

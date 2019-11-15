@@ -2,7 +2,7 @@
 
 ## Outline
 
-This app makes me learn more about Optionals, solidify my understanding of the MVC design pattern and to introduce the concept of Classes.
+This app makes me learn more about Optionals, solidify my understanding of the MVC architecture and to introduce the concept of Classes.
 
 ## What is BMI Calculator
 

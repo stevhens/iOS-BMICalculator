@@ -6,7 +6,7 @@ This app makes me learn more about Optionals, solidify my understanding of the M
 
 ## What is BMI Calculator
 
-Body Mass Index calculator app is an app that will calculate their body mass index based on the user’s weight and height and give a piece of health advice depending on whether if they have eaten too many pies or if they need to eat more pies.
+Body Mass Index calculator app is an app that will calculate their body mass index based on the user’s weight and height and give a piece of health advice depending on whether they have eaten too many pies or if they need to eat more pies.
 
 ## What I've learnt
 
